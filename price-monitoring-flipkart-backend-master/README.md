@@ -7,6 +7,6 @@ This is the backend module of the price monitoring app. In this project, we are 
 2) Clone the repository. `git clone https://github.com/puneet24/flipkart_extension_backend.git`.   
 3) Move to the repository cd `flipkart_extension`.     
 4) Run `npm install`.    
-5) Start the server bu running `node index.js`. If everything works fine server will start. :)     
+5) Start the server bu running `node index.js`.    
 
-Link of Front-end part is :- https://github.com/puneet24/flipkart_extension_frontend 
+Link of Front-end part is :- https://github.com/abheexx/sale_o_clock
